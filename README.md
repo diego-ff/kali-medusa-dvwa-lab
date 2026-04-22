@@ -59,7 +59,9 @@ Credenciais válidas foram encontradas devido ao uso de senha fraca.
 
 ### 📸 Evidência
 
-![FTP Attack](images/ftp.png)
+![FTP 1](images/ftp1.png)
+![FTP 2](images/ftp2.png)
+![FTP 3](images/ftp3.png)
 
 ### 🔐 Mitigação
 
@@ -84,7 +86,8 @@ Login realizado com:
 
 ### 📸 Evidência
 
-![DVWA Attack](images/dvwa.png)
+![DVWA 1](images/dvwa1.png)
+![DVWA 2](images/dvwa2.png)
 
 ### ⚠️ Vulnerabilidade
 
